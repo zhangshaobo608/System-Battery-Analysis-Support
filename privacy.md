@@ -69,3 +69,6 @@
 ## 8. 联系我们
 
 有关隐私、数据删除操作或功能问题，请通过[GitHub Issues](https://github.com/zhangshaobo608/System-Battery-Analysis-Support/issues) 联系 Shenzhen Huoli Zhihui Technology Co., Ltd.。公开 Issue 可能被他人看到，请勿附真实 Analytics、sysdiagnose、完整序列号或其他敏感信息。反馈时优先提供应用版本、设备型号、系统版本和已遮盖敏感信息的错误截图，无需发送原始系统诊断包。
+
+
+App 备案号：[粤ICP备2026005103号-15A](https://beian.miit.gov.cn/)

@@ -65,3 +65,6 @@
 
 运营主体：Shenzhen Huoli Zhihui Technology Co., Ltd.  
 [隐私政策](privacy.html)
+
+
+App 备案号：[粤ICP备2026005103号-15A](https://beian.miit.gov.cn/)

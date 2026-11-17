@@ -9,3 +9,5 @@
 应用完全免费、无广告、无需账号。选取的日志在设备上解析；详细处理方式和数据删除边界以隐私政策为准。
 
 运营主体：Shenzhen Huoli Zhihui Technology Co., Ltd.
+
+App 备案号：[粤ICP备2026005103号-15A](https://beian.miit.gov.cn/)
